@@ -1,7 +1,7 @@
 # Spring Vegetable Chowder
 
-Adapted from https://tasty.co/recipe/spring-vegetable-chowder
-Vegan if you use non-dairy milk and don't add cheese or butter
+* Adapted from https://tasty.co/recipe/spring-vegetable-chowder
+* Vegan if you use non-dairy milk and don't add cheese or butter
 
 ## Ingredients
 
